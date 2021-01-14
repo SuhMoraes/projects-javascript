@@ -1,6 +1,25 @@
 body{
-background-color: #bfd8bd;
+background-color: #3c096c;
+
 }
+
+ .pageUp{
+   width: auto;
+   height: 100px;  
+  background: #2ec4b6;
+  display: flex;
+  align-items: center;
+  justify-content: center
+  
+ }
+
+ .pageUp h1 {
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+ }
 
 main{
   display: flex;
@@ -13,7 +32,7 @@ main{
 .container {
   display: flex;
   flex-direction: column;
-  background: #70e000;
+  background: #2ec4b6;
   width: 400px;
   height: 600px;
   align-items: center;
@@ -29,6 +48,7 @@ main{
   width: 100%;
   height: 50px;
   font: bold 2.5rem arial;
+  color: #000;
   border-bottom: solid 3px black;
   margin-bottom: 20px;
 }
@@ -53,6 +73,7 @@ main{
 
 .input label {
   font: bold 1.5rem arial;
+  color: #000;
 }
 
 button{
@@ -60,8 +81,8 @@ button{
   height: 40px;
   margin-top: 20px;
   font: bold 1.2rem arial;
-  background: #000;
-  color: #70e000;
+  background: #f1faee;
+  color: #000;
   outline: none;
   border-radius: 5px;
   cursor: pointer;
@@ -76,8 +97,8 @@ button{
   border-radius: 5px;
   font:  italic bold 1.5rem serif;
   box-shadow: 0px 0px 10px black;
-  background-color: #000;
-  color: #70e000;
+  background-color: #f1faee;
+  color: #1d3557;
   padding: 20px;
   box-sizing: border-box;
   user-select: none;
