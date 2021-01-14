@@ -37,6 +37,11 @@
   </a>
 
 <h3> Aplicação </h3>
+<li> function para coleta de dados</li>
+<li>Operação matématica através do function </li>
+<li>Estrutura condicional(if/else) para a validação dos dados</li>
+<li>Botão 'Calcular" através do elemento addEventListener</li>
+
   <a href="">
     <img alt="CSS" src="https://github.com/SuhMoraes/projects-javascript/blob/main/gif-img/calculadoraIMC.gif">
   </a>
