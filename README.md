@@ -1,8 +1,7 @@
 <h1 align="center">Projetos Javascripts</h1>
 
   <p>
-   Projetos JavaScripts, é um projeto voltado a prática para solidificar o conhecimento. Ainda não irei inventar a roda, porém vou aprimorá-la. Como dizem que a prática leva a perfeição, irei praticar, entender e compreender tanto a linguagem quanto as funcionalidades da linguagem de programação JavaScript.
-  </p>
+   O repositório Projetos JavaScripts, foi idealizado para a prática do conhecimento na linguagem Javascript. Como dizem que a prática leva a perfeição, irei praticar, entender e compreender tanto a linguagem quanto as sua funcionalidades. 
   <p>
     Os projetos os quais estão no repositório, são de autoria do Professor Fernando Leonid, ministrados pelo Youtube.
 </p>
@@ -20,8 +19,27 @@
 <h3>8 - To Do list</h3>
 <br />
 
-
-
 <h2>1 - Calculadora IMC</h2>
 <hr />
 <p>A calculadora IMC é um desafio do Professor Fernando Leonid para estudantes de Front End</p>
+
+
+<h3>Tecnologias:</h3>
+
+  <a href="">
+    <img alt="CSS" src="https://icongr.am/devicon/css3-original.svg?size=20&color=currentColor">
+  </a>
+  <a href="">
+    <img alt="CSS" src="https://icongr.am/devicon/html5-original.svg?size=20&color=currentColor">
+  </a>
+  <a href="">
+    <img alt="CSS" src="https://icongr.am/devicon/javascript-original.svg?size=20&color=currentColor">
+  </a>
+
+<h3> Aplicação </h3>
+  <a href="">
+    <img alt="CSS" src="https://github.com/SuhMoraes/projects-javascript/blob/main/gif-img/calculadoraIMC.gif">
+  </a>
+
+
+  
