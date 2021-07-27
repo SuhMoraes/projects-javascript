@@ -2,22 +2,12 @@
 
   <p>
    O repositório Projetos JavaScripts, foi idealizado para a prática do conhecimento na linguagem Javascript. Como dizem que a prática leva a perfeição, irei praticar, entender e compreender tanto a linguagem quanto as sua funcionalidades. 
-  <p>
-    Os projetos os quais estão no repositório, são de autoria do Professor Fernando Leonid, ministrados pelo Youtube.
-</p>
+
+  </p>
 <br />
 
 <h2>Projetos</h2>
 <hr />
-<h3>1 - Calculadora IMC</h3>
-<h3>2 - Lâmpada</h3>
-<h3>3 -  Semáforo</h3>
-<h3>4 - SlideShow </h3>
-<h3>5 - Drumkit</h3>
-<h3>6 - CountDown</h3>
-<h3>7 - Calculadora</h3>
-<h3>8 - To Do list</h3>
-<br />
 
 <h2>1 - Calculadora IMC</h2>
 <hr />
