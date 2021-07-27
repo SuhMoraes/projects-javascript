@@ -1,4 +1,4 @@
-<h1 align="center">Projetos Javascripts</h1>
+<h1 align="center">Projetos JavaSript</h1>
 
   <p>
    O repositório Projetos JavaScripts, foi idealizado para a prática do conhecimento na linguagem Javascript. Como dizem que a prática leva a perfeição, irei praticar, entender e compreender tanto a linguagem quanto as sua funcionalidades. 
