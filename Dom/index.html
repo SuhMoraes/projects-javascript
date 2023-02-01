@@ -1,0 +1,30 @@
+<script src="https://cdn.tailwindcss.com"></script>
+<div class="w-3/4 max-w-[370px] mx-auto">
+
+<form class="bg-white py-6 px-4 rounded shadow mt-32">
+  
+  <div class="w-full">
+    <label class="block uppercase text-xs text-gray-600 font-bold mb-2 sr-only" for="input-add">Adicionar item</label>
+
+    <input 
+    class="
+      block w-full border 
+      bg-gray-50 border-gray-200 
+      rounded py-2 px-4 leading-tight
+      focus:bg-white 
+      focus:border-gray-500
+      focus:outline-none"
+    id="input-add"
+    placeholder="Adicionar Item">
+  </div>
+
+  <button class="mt-2 py-2 flex items-center justify-center bg-blue-300 rounded w-full ">Adicionar</button>
+</form>
+
+<ul class="border border-gray-200 rounded overflow-hidden shadow">
+    <li class="px-4 py-2 bg-white hover:bg-sky-100 hover:text-sky-900 border-b last:border-none border-gray-200 transition-all duration-300 ease-in-out flex justify-between"><span>Item</span><button class="text-red-700 delete">ⅹ</button></li>
+  
+</ul>
+
+</div>
+<script src="script.js"></script>
